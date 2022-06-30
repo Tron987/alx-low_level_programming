@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- *  * main - Prints quote
- *   *
- *    * Return: zero on success
- *     *
- *      */
+* main - Prints quote
+*
+* Return: zero on success
+*
+*/
 int main(void)
 {
 	int charSize = sizeof(char);
